@@ -1,6 +1,7 @@
 # EDL_microcontroller_code
 
-abcd folder contains: Scilab code written for compensator design assignment
+noise_cancelling_headset_code folder contains: Scilab code written for compensator design assignment
+
 Code folder contains: C code for microcontroller at89c51 using Keil for a group project in EE344:Electronic Design Lab.
 
 Group members are:
